@@ -115,6 +115,6 @@ This task showcases the integration of external data sources with real-time proc
 
 ### **OUTPUT**:
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/880a6e01-f28f-481f-ba67-b26d2924b0c9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/98cf5c31-aab2-45ac-a9aa-9a6a92818337" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2a5065ac-9ff3-476f-9ca2-efab5e112827" />
