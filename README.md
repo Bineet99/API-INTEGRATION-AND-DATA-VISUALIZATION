@@ -112,3 +112,6 @@ This weather visualization tool has various practical and educational applicatio
 This task showcases the integration of external data sources with real-time processing and visualization. It not only demonstrates foundational programming skills but also introduces students and developers to the power of API-driven applications. Through a few lines of Python code, users can transform raw weather data into a meaningful and interactive experience.
 
 ---
+
+### **OUTPUT**
+
